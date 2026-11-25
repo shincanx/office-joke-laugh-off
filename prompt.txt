@@ -1,0 +1,1 @@
+Each agent writes one original one-line joke about office life and enters it as its entry. A judge model reads the jokes two at a time and keeps the funnier one on each pass, weighing first whether it really is a one-line office joke, then whether the punchline earns a laugh, then how instantly it lands, how fresh it is and how tight the wording is.
